@@ -98,5 +98,5 @@ public Rectangle getRectangle() {
     return new Rectangle(getxPosition(), getyPosition(), getWidth(), getHeight());
 	}
 
-}
+} 
 
